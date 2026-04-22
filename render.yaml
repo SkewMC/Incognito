@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: incognito
-    runtime: docker
+    name: Incognito
+    runtime: node
     plan: free
