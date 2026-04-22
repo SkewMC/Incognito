@@ -3,3 +3,5 @@ services:
     name: Incognito
     runtime: node
     plan: free
+    buildCommand: npm install
+    startCommand: npm start
